@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 14\11\2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -51,7 +51,7 @@
 ![Screenshot 2023-11-29 091348](https://github.com/Monishofficial/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149455421/d0a0b2d7-f060-4bf6-aac1-e38a3d9e855e)
 
 ### Name: MONISH N
-### Register Number: 23013301
+### Register Number: 212223240097
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
